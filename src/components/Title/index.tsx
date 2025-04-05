@@ -17,7 +17,7 @@ interface Props {
 export const Title = ({ label }: Props) => {
   return (
     <Container>
-        <Label>{label}</Label>
+      <Label>{label}</Label>
     </Container>
   );
 };
